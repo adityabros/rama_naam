@@ -1,5 +1,9 @@
 User-agent: *
 
+Allow: /
+
+Allow: /post/*
+
 Disallow: /post/
 
 Disallow: /categories/
