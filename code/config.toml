@@ -9,7 +9,7 @@ enableInlineShortcodes = true
 description = "hello"
 theme = "paper"
 enableRobotsTXT = true
-
+disableKinds = ['sitemap','robotsTXT']
 
 [params]
   color = 'white'
