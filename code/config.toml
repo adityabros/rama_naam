@@ -8,6 +8,7 @@ DefaultContentLanguage = "en"
 enableInlineShortcodes = true
 
 theme = "paper"
+enableRobotsTXT = true
 
 
 [params]
