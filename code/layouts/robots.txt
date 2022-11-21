@@ -1,5 +1,7 @@
 User-agent: *
 
+Disallow: /posts/
+
 Disallow: /categories/
 
 Disallow: /tags/index/
