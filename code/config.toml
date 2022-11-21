@@ -6,13 +6,14 @@ paginate = 50
 languageCode = "en"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
-
+description = "hello"
 theme = "paper"
 enableRobotsTXT = true
 
 
 [params]
   color = 'white'
+  description = 'Rama Naam | Mantra benefits in Kaliyuga, Mantra Counter, Kaliyuga keval naam adhara sumir sumir nahin utrahin para'
 
 # ------------------------------
 
